@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a82fdb8-81a0-41cf-a913-3d0058d6553c" name="Changes" comment="labs">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/labs_MS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UMF3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UMF3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UMF_norm_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMF2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UMF2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animation2.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/animation2.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/labs_MS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/labs_MS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/dz_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/dz_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/graph_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stochastic_processes/graph_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/marketing_task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stochastic_processes/marketing_task.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/markov_chain.png" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/markov_chain.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/romkaimp/MS.git&quot;,
-    &quot;accountId&quot;: &quot;62ef48e9-e3d3-4b34-950d-8a91cb9be862&quot;
+    &quot;accountId&quot;: &quot;45af7da3-6e0f-42b7-ad05-2bcb3e05e4cb&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,28 +50,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.UMF2.executor": "Run",
-    "Python.UMF3.executor": "Run",
-    "Python.UMF_norm_func.executor": "Run",
-    "Python.lab1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.UMF2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UMF3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UMF_norm_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharmPrj\MS\Stochastic_processes" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
-        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
       </set>
     </attachedChunks>
   </component>
@@ -107,6 +108,10 @@
       <workItem from="1726651521819" duration="705000" />
       <workItem from="1726685846945" duration="215000" />
       <workItem from="1727896540621" duration="7153000" />
+      <workItem from="1740507034204" duration="731000" />
+      <workItem from="1740507778819" duration="3241000" />
+      <workItem from="1740643216439" duration="353000" />
+      <workItem from="1740643577464" duration="8039000" />
     </task>
     <task id="LOCAL-00001" summary="labs">
       <option name="closed" value="true" />
