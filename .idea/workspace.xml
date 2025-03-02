@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a82fdb8-81a0-41cf-a913-3d0058d6553c" name="Changes" comment="labs">
-      <change beforePath="$PROJECT_DIR$/.idea/labs_MS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/labs_MS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stochastic_processes/dz_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/dz_1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stochastic_processes/graph_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stochastic_processes/graph_tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stochastic_processes/marketing_task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stochastic_processes/marketing_task.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stochastic_processes/markov_chain.png" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/markov_chain.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +107,11 @@
       <workItem from="1740507034204" duration="731000" />
       <workItem from="1740507778819" duration="3241000" />
       <workItem from="1740643216439" duration="353000" />
-      <workItem from="1740643577464" duration="8039000" />
+      <workItem from="1740643577464" duration="8787000" />
+      <workItem from="1740681250108" duration="7221000" />
+      <workItem from="1740732397009" duration="908000" />
+      <workItem from="1740735216879" duration="1389000" />
+      <workItem from="1740943824603" duration="771000" />
     </task>
     <task id="LOCAL-00001" summary="labs">
       <option name="closed" value="true" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725989021161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="labs">
+      <option name="closed" value="true" />
+      <created>1740671666356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740671666356</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
