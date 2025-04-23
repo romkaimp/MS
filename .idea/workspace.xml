@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a82fdb8-81a0-41cf-a913-3d0058d6553c" name="Changes" comment="dz_2">
-      <change afterPath="$PROJECT_DIR$/OSM/dz1-2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSM/dz1-3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random_processes/dz2-1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random_processes/rk_mo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random_processes/dz_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/dz_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +36,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/romkaimp/MS.git&quot;,
-    &quot;accountId&quot;: &quot;45af7da3-6e0f-42b7-ad05-2bcb3e05e4cb&quot;
+    &quot;accountId&quot;: &quot;20536466-30c0-4192-ab9e-940cd175b6fd&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -45,35 +48,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.UMF2.executor": "Run",
-    "Python.UMF3.executor": "Run",
-    "Python.UMF_norm_func.executor": "Run",
-    "Python.lab1.executor": "Run",
-    "Python.осм_1_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.UMF2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UMF3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UMF_norm_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.осм_1_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kuzne\PycharmProjects\MS\Random_processes" />
       <recent name="D:\PyCharmPrj\MS\Stochastic_processes" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
-        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -119,6 +123,16 @@
       <workItem from="1741723916638" duration="904000" />
       <workItem from="1741851044032" duration="29000" />
       <workItem from="1742314275113" duration="7374000" />
+      <workItem from="1742552504433" duration="402000" />
+      <workItem from="1742553068429" duration="28000" />
+      <workItem from="1742563523217" duration="1773000" />
+      <workItem from="1742888104995" duration="3162000" />
+      <workItem from="1742910304682" duration="596000" />
+      <workItem from="1743079816426" duration="9000" />
+      <workItem from="1743771660149" duration="11000" />
+      <workItem from="1744225422950" duration="336000" />
+      <workItem from="1745304854109" duration="3566000" />
+      <workItem from="1745315132911" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="labs">
       <option name="closed" value="true" />
