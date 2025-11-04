@@ -4,12 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a82fdb8-81a0-41cf-a913-3d0058d6553c" name="Changes" comment="dz_2">
-      <change afterPath="$PROJECT_DIR$/OSM/dz1-3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random_processes/dz2-1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random_processes/rk_mo.ipynb" afterDir="false" />
+    <list default="true" id="7a82fdb8-81a0-41cf-a913-3d0058d6553c" name="Changes" comment="dz_2 stoch_prc">
+      <change afterPath="$PROJECT_DIR$/OSM/dz1-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random_processes/solving_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SA_SDU/dz1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SA_SDU/dz2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random_processes/dz_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/dz_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/MS/5_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/MS/5_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/MS/5_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/MS/5_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Criterion.png" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Criterion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Criterion2.png" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Criterion2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jacoby.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OSM/Jacoby.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/K-4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Lab1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Lab2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Lab3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Lab4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Lab5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Lab6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Lab7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Lab8.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MS_5-6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MS/MS_5-6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OSM/dz1-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OSM/dz1-3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polynomial_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Polynomial_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random_processes/dz_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/dz_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/graph_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/graph_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/marketing_task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/marketing_task.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/marketing_task.png" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/mark_task/marketing_task.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/Алгоритм_полного_перебора.png" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/mark_task/Алгоритм_полного_перебора.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/Вероятности перехода между i-ми состояниями" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/Вероятности перехода между i-ми состояниями.png" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/mark_task/Вероятности перехода между i-ми состояниями.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/Вероятности получения дохода" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/Вероятности получения дохода.png" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/mark_task/Вероятности получения дохода.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/Общая_задача.png" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/mark_task/Общая_задача.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stochastic_processes/итер_для_поиска_стратегии.png" beforeDir="false" afterPath="$PROJECT_DIR$/Random_processes/mark_task/итер_для_поиска_стратегии.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student_Performance.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MS/Student_Performance.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UMF2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/UMF2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UMF2.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/UMF2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UMF3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/UMF3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UMF3.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/UMF3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UMF_norm_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/UMF_norm_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation2.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/other/animation2.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MS/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MS/lab5_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MS/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MS/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadachi_ec.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +79,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/romkaimp/MS.git&quot;,
-    &quot;accountId&quot;: &quot;20536466-30c0-4192-ab9e-940cd175b6fd&quot;
+    &quot;accountId&quot;: &quot;45af7da3-6e0f-42b7-ad05-2bcb3e05e4cb&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -53,7 +96,10 @@
     &quot;Python.UMF2.executor&quot;: &quot;Run&quot;,
     &quot;Python.UMF3.executor&quot;: &quot;Run&quot;,
     &quot;Python.UMF_norm_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dz1-4.executor&quot;: &quot;Run&quot;,
     &quot;Python.lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.last_one_spectral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zadachi_ec.executor&quot;: &quot;Run&quot;,
     &quot;Python.осм_1_2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -69,15 +115,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Kuzne\PycharmProjects\MS\Random_processes" />
-      <recent name="D:\PyCharmPrj\MS\Stochastic_processes" />
+      <recent name="D:\PyCharmPrj\MS\other" />
+      <recent name="D:\PyCharmPrj\MS\MS" />
+      <recent name="D:\PyCharmPrj\MS\Random_processes\mark_task" />
+      <recent name="D:\PyCharmPrj\MS\Random_processes" />
+      <recent name="D:\PyCharmPrj\MS\OSM" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
-        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
       </set>
     </attachedChunks>
   </component>
@@ -123,16 +172,28 @@
       <workItem from="1741723916638" duration="904000" />
       <workItem from="1741851044032" duration="29000" />
       <workItem from="1742314275113" duration="7374000" />
-      <workItem from="1742552504433" duration="402000" />
-      <workItem from="1742553068429" duration="28000" />
-      <workItem from="1742563523217" duration="1773000" />
-      <workItem from="1742888104995" duration="3162000" />
-      <workItem from="1742910304682" duration="596000" />
-      <workItem from="1743079816426" duration="9000" />
-      <workItem from="1743771660149" duration="11000" />
-      <workItem from="1744225422950" duration="336000" />
-      <workItem from="1745304854109" duration="3566000" />
-      <workItem from="1745315132911" duration="2000" />
+      <workItem from="1745494274176" duration="1546000" />
+      <workItem from="1745516855044" duration="4839000" />
+      <workItem from="1745586297873" duration="14000" />
+      <workItem from="1745813644262" duration="4016000" />
+      <workItem from="1745829021564" duration="57000" />
+      <workItem from="1745840367263" duration="49000" />
+      <workItem from="1745842212289" duration="1301000" />
+      <workItem from="1747656157359" duration="9762000" />
+      <workItem from="1747813144816" duration="1563000" />
+      <workItem from="1747819980729" duration="5000" />
+      <workItem from="1747821782711" duration="3000" />
+      <workItem from="1747850045202" duration="12000" />
+      <workItem from="1748425962291" duration="8000" />
+      <workItem from="1748966786117" duration="84000" />
+      <workItem from="1749150576859" duration="876000" />
+      <workItem from="1749214494741" duration="2475000" />
+      <workItem from="1749934237659" duration="743000" />
+      <workItem from="1749973283491" duration="4237000" />
+      <workItem from="1750340939658" duration="38000" />
+      <workItem from="1750512488233" duration="4000" />
+      <workItem from="1751881799384" duration="8000" />
+      <workItem from="1762238475764" duration="7400000" />
     </task>
     <task id="LOCAL-00001" summary="labs">
       <option name="closed" value="true" />
@@ -182,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741729747140</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dz_2 stoch_prc">
+      <option name="closed" value="true" />
+      <created>1747666288746</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747666288746</updated>
+    </task>
+    <task id="LOCAL-00008" summary="dz_2 stoch_prc">
+      <option name="closed" value="true" />
+      <created>1747814710916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747814710916</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,13 +280,17 @@
     <MESSAGE value="labs" />
     <MESSAGE value="task done" />
     <MESSAGE value="dz_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz_2" />
+    <MESSAGE value="dz_2 stoch_prc" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz_2 stoch_prc" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/labs_MS$UMF3.coverage" NAME="UMF3 Coverage Results" MODIFIED="1727900302549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$dz1_4.coverage" NAME="dz1-4 Coverage Results" MODIFIED="1745818482812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OSM" />
     <SUITE FILE_PATH="coverage/labs_MS$UMF2.coverage" NAME="UMF2 Coverage Results" MODIFIED="1725969136586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$_1_2.coverage" NAME="осм_1_2 Coverage Results" MODIFIED="1742331088516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OSM" />
     <SUITE FILE_PATH="coverage/labs_MS$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1725556153484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$zadachi_ec.coverage" NAME="zadachi_ec Coverage Results" MODIFIED="1745829055735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$last_one_spectral.coverage" NAME="last_one_spectral Coverage Results" MODIFIED="1749980547712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random_processes" />
     <SUITE FILE_PATH="coverage/labs_MS$UMF_norm_func.coverage" NAME="UMF_norm_func Coverage Results" MODIFIED="1726651747978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
