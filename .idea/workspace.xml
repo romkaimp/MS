@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a82fdb8-81a0-41cf-a913-3d0058d6553c" name="Changes" comment="dz3 САиСДУ">
-      <change afterPath="$PROJECT_DIR$/sym_econo/systems_overview.ipynb" afterDir="false" />
+    <list default="true" id="7a82fdb8-81a0-41cf-a913-3d0058d6553c" name="Changes" comment="econo">
+      <change afterPath="$PROJECT_DIR$/SA_SDU/dz4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sym_econo/experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sym_econo/experiment.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sym_econo/market_sym.py" beforeDir="false" afterPath="$PROJECT_DIR$/sym_econo/market_sym.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +162,7 @@
       <workItem from="1762800777755" duration="62000" />
       <workItem from="1762873917153" duration="11756000" />
       <workItem from="1762930305362" duration="1027000" />
+      <workItem from="1762971934622" duration="4632000" />
     </task>
     <task id="LOCAL-00001" summary="labs">
       <option name="closed" value="true" />
@@ -253,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762324034562</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="econo">
+      <option name="closed" value="true" />
+      <created>1762971964407</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762971964407</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +285,8 @@
     <MESSAGE value="dz1 САиСДУ" />
     <MESSAGE value="dz2 САиСДУ" />
     <MESSAGE value="dz3 САиСДУ" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz3 САиСДУ" />
+    <MESSAGE value="econo" />
+    <option name="LAST_COMMIT_MESSAGE" value="econo" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MS$market_sym.coverage" NAME="market_sym Coverage Results" MODIFIED="1762885050821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sym_econo" />
