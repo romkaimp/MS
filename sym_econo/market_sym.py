@@ -5,6 +5,8 @@ import numpy as np
 import scipy.special as sp
 from matplotlib import pyplot as plt
 
+
+
 class TimeSystem:
     def __init__(self):
         #1 tick = 10 sec
